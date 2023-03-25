@@ -16,6 +16,6 @@
 | 김영건 |  | FE |
 | 신수정 |  | FE |
 | 김성현 |  |  | BE |
-| 이주은 | https://2zooni.tistory.com |  | Design |
+| 이주은 | https://2zooni.tistory.com | Design |
 
 ## 프로젝트 설명
