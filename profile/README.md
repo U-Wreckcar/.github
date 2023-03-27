@@ -1,8 +1,8 @@
-# 🏎️ U렉카
 <img width="1440" alt="i_dedc0bf952f4" src="https://user-images.githubusercontent.com/112174727/228023286-a7362364-d911-4dc4-aa19-b1bf848d4ace.png">
 
 <br>
-  
+
+# U렉카 - Uwreckcar
 [Disquiet* U렉카 상세보기](https://disquiet.io/product/%EC%9C%A0%EB%A0%89%EC%B9%B4-1679901595623)  
 💡 UTM 링크를 생성하면 해당 링크를 파라미터(소스, 매체, 키워드, 콘텐츠, 이름) 별로 나누어 자동 아카이빙 해 주고, 필요 영역을 설정해 노션 embed, 엑셀, 스프레드 시트 형태로 데이터를 추출하여 팀원들과 공유할 수 있게 해 주는 UTM 카테고라이징 서비스입니다.
 
